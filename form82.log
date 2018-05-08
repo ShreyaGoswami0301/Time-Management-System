@@ -1,0 +1,39 @@
+Line 23: Class MSComctlLib.ImageList of control ImageList3 was not a loaded control class.
+Line 41: Class MSComctlLib.ImageList of control ImageList2 was not a loaded control class.
+Line 59: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 98: Class MSComctlLib.ImageCombo of control ImageCombo3 was not a loaded control class.
+Line 111: Class MSComctlLib.ImageCombo of control ImageCombo2 was not a loaded control class.
+Line 124: Class MSComctlLib.ImageCombo of control ImageCombo1 was not a loaded control class.
+Line 26: The property name _ExtentX in ImageList3 is invalid.
+Line 27: The property name _ExtentY in ImageList3 is invalid.
+Line 29: The property name ImageWidth in ImageList3 is invalid.
+Line 30: The property name ImageHeight in ImageList3 is invalid.
+Line 31: The property name MaskColor in ImageList3 is invalid.
+Line 32: The property name _Version in ImageList3 is invalid.
+Line 39: The property name Images in ImageList3 is invalid.
+Line 44: The property name _ExtentX in ImageList2 is invalid.
+Line 45: The property name _ExtentY in ImageList2 is invalid.
+Line 47: The property name ImageWidth in ImageList2 is invalid.
+Line 48: The property name ImageHeight in ImageList2 is invalid.
+Line 49: The property name MaskColor in ImageList2 is invalid.
+Line 50: The property name _Version in ImageList2 is invalid.
+Line 57: The property name Images in ImageList2 is invalid.
+Line 62: The property name _ExtentX in ImageList1 is invalid.
+Line 63: The property name _ExtentY in ImageList1 is invalid.
+Line 65: The property name ImageWidth in ImageList1 is invalid.
+Line 66: The property name ImageHeight in ImageList1 is invalid.
+Line 67: The property name MaskColor in ImageList1 is invalid.
+Line 68: The property name _Version in ImageList1 is invalid.
+Line 75: The property name Images in ImageList1 is invalid.
+Line 104: The property name _ExtentX in ImageCombo3 is invalid.
+Line 105: The property name _ExtentY in ImageCombo3 is invalid.
+Line 106: The property name _Version in ImageCombo3 is invalid.
+Line 109: The property name Text in ImageCombo3 is invalid.
+Line 117: The property name _ExtentX in ImageCombo2 is invalid.
+Line 118: The property name _ExtentY in ImageCombo2 is invalid.
+Line 119: The property name _Version in ImageCombo2 is invalid.
+Line 122: The property name Text in ImageCombo2 is invalid.
+Line 130: The property name _ExtentX in ImageCombo1 is invalid.
+Line 131: The property name _ExtentY in ImageCombo1 is invalid.
+Line 132: The property name _Version in ImageCombo1 is invalid.
+Line 135: The property name Text in ImageCombo1 is invalid.
